@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_clipboard"
+        android:shortcutId="check_clipboard"
+        android:shortcutLongLabel="@string/shortcut_clipboard_long"
+        android:shortcutShortLabel="@string/shortcut_clipboard_short">
+        <intent
+            android:action="com.grammarpeace.app.action.CHECK_CLIPBOARD"
+            android:targetClass="com.grammarpeace.app.ui.MainActivity"
+            android:targetPackage="com.grammarpeace.app" />
+    </shortcut>
+</shortcuts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GrammarPeace</string>
+    <string name="app_title">GrammarPeace ✌️</string>
+
+    <string name="action_fix">✌️ Fix</string>
+    <string name="action_improve">Improve</string>
+    <string name="action_tone">Tone</string>
+    <string name="action_translate">Translate</string>
+
+    <string name="label_fix">Fix grammar</string>
+    <string name="label_tone">%1$s tone</string>
+    <string name="label_translate">Translate to %1$s</string>
+    <string name="working">%1$s…</string>
+
+    <string name="input_hint">Type or paste text</string>
+    <string name="paste">Paste</string>
+    <string name="clear">Clear</string>
+    <plurals name="word_count">
+        <item quantity="one">%1$d word</item>
+        <item quantity="other">%1$d words</item>
+    </plurals>
+
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+    <string name="replace">Replace</string>
+    <string name="share">Share</string>
+    <string name="use_as_input">Keep editing</string>
+    <string name="show_changes">Show changes</string>
+    <string name="hide_changes">Hide changes</string>
+    <string name="alternatives">Alternatives</string>
+    <string name="explain">Explain</string>
+    <string name="explanation">What changed</string>
+    <string name="no_errors">No grammar errors found.</string>
+    <string name="result_description">Result: %1$s</string>
+    <string name="try_again">Try again</string>
+    <string name="clipboard_empty">There is no text on the clipboard.</string>
+
+    <string name="setup_title">Add an API key to get started</string>
+    <string name="setup_body">GrammarPeace uses your own Claude, OpenAI or OpenRouter key. It takes a minute to set up.</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="section_provider">AI provider</string>
+    <string name="section_preferences">Preferences</string>
+    <string name="section_dictionary">Custom dictionary</string>
+    <string name="api_key_label">%1$s API key</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="model">Model</string>
+    <string name="base_url">Base URL</string>
+    <string name="test_key">Test</string>
+    <string name="get_key">Get an API key</string>
+    <string name="test_running">Checking…</string>
+    <string name="test_passed">It works.</string>
+    <string name="grammar_language">Grammar language</string>
+    <string name="translate_to">Translate to</string>
+    <string name="dictionary_label">Words to leave alone</string>
+    <string name="dictionary_help">One per line. Names, brands and jargon that should not be corrected.</string>
+    <string name="privacy_note">Your text goes straight from this phone to the provider you chose, and nowhere else. Your API key is stored encrypted on this device.</string>
+
+    <string name="tile_label">Check clipboard</string>
+    <string name="shortcut_clipboard_short">Check clipboard</string>
+    <string name="shortcut_clipboard_long">Fix grammar of copied text</string>
+</resources>

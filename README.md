@@ -53,6 +53,9 @@ Stop paying $144/year for Grammarly. GrammarPeace gives you the same features �
 4. Click **Load unpacked** → select this folder
 5. Done!
 
+### Android App
+A GrammarPeace app for Android lives in [`android/`](android/README.md). Paste text into the app, or select text in any other app and pick GrammarPeace from the selection menu to fix it in place. Build it by following [android/README.md](android/README.md).
+
 ### iPhone Keyboard (beta)
 A GrammarPeace keyboard for iOS lives in [`ios/`](ios/README.md). Type in any app, tap ✌️ to fix grammar, or use Improve, Tone and Translate from the bar above the keys. Build it with Xcode by following [ios/README.md](ios/README.md).
 
